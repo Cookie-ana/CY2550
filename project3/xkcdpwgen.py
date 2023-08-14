@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # CY2550 Project3 Ananya Kumar
 
 import argparse, random #will let me access command line arguments and generate random numbers/choose random words
